@@ -9,6 +9,6 @@ namespace ADPTest.SharedKernel.Dtos
     public class SubmitTaskDto
     {
         public string id { get; set; }
-        public decimal result { get; set; }
+        public double result { get; set; }
     }
 }

@@ -31,7 +31,7 @@ namespace ADPTest.Infrastructure.Services
         {
             var task = await _externalService.GetTask();
             var resultDto = new TaskResultDto();
-            decimal result = 0;
+            double result = 0;
 
             if (task == null)
                 throw new Exception("Task not found");

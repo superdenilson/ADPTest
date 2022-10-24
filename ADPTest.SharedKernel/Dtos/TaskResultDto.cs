@@ -10,6 +10,6 @@ namespace ADPTest.SharedKernel.Dtos
     {
         public string Id { get; set; }
         public string Operation { get; set; }
-        public decimal Result { get; set; }
+        public double Result { get; set; }
     }
 }

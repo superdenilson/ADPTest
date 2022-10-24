@@ -22,12 +22,12 @@ namespace ADPTest.Infrastructure.Services
                 default: return OperationType.notfound;
             }
         }
-        public decimal DoSubtraction(long left, long right) { return left - right; }
+        public double DoSubtraction(double left, double right) { return left - right; }
 
-        public decimal DoMultiplication(long left, long right) { return left * right; }
+        public double DoMultiplication(double left, double right) { return left * right; }
 
-        public decimal DoAddition(long left, long right) { return left + right; }
-        public decimal DoDivision(long left, long right)
+        public double DoAddition(double left, double right) { return left + right; }
+        public double DoDivision(double left, double right)
         {
             if (right != 0)
                 return left / right;
@@ -35,7 +35,7 @@ namespace ADPTest.Infrastructure.Services
                 throw new DivideByZeroException("Can't divide by zero");
         }
 
-        public decimal DoRemainder(long left, long right) { return left % right; }
+        public double DoRemainder(double left, double right) { return left % right; }
 
     }
 }

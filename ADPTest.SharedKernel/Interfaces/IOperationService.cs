@@ -9,11 +9,11 @@ namespace ADPTest.SharedKernel.Interfaces
     public interface IOperationService
     {
         OperationType DefineOperationType(string operation);
-        decimal DoSubtraction(long left, long right);
-        decimal DoMultiplication(long left, long right);
-        decimal DoAddition(long left, long right);
-        decimal DoDivision(long left, long right);
-        decimal DoRemainder(long left, long right);
+        double DoSubtraction(double left, double right);
+        double DoMultiplication(double left, double right);
+        double DoAddition(double left, double right);
+        double DoDivision(double left, double right);
+        double DoRemainder(double left, double right);
 
     }
 }
