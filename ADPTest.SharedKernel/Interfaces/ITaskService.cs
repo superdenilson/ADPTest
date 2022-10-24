@@ -9,7 +9,6 @@ namespace ADPTest.SharedKernel.Interfaces
 {
     public interface ITaskService
     {
-        Task<TaskDto> GetTask();
         Task<TaskResultDto> ExecuteTask();
     }
 }

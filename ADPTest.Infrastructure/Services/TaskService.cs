@@ -21,12 +21,6 @@ namespace ADPTest.Infrastructure.Services
         }
 
 
-        public async Task<TaskDto> GetTask()
-        {
-            var result = await _externalService.GetTask();
-            return result;
-        }
-
         public async Task<TaskResultDto> ExecuteTask()
         {
             var task = await _externalService.GetTask();
