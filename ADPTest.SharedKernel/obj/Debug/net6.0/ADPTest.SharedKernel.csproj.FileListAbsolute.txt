@@ -1,0 +1,12 @@
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\bin\Debug\net6.0\ADPTest.SharedKernel.deps.json
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\bin\Debug\net6.0\ADPTest.SharedKernel.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\bin\Debug\net6.0\ADPTest.SharedKernel.pdb
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.csproj.AssemblyReference.cache
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.AssemblyInfoInputs.cache
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.AssemblyInfo.cs
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\refint\ADPTest.SharedKernel.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ADPTest.SharedKernel.pdb
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.SharedKernel\obj\Debug\net6.0\ref\ADPTest.SharedKernel.dll

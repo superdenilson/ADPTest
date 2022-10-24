@@ -1,0 +1,15 @@
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\bin\Debug\net6.0\ADPTest.Infrastructure.deps.json
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\bin\Debug\net6.0\ADPTest.Infrastructure.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\bin\Debug\net6.0\ADPTest.Infrastructure.pdb
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\bin\Debug\net6.0\ADPTest.SharedKernel.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\bin\Debug\net6.0\ADPTest.SharedKernel.pdb
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.csproj.AssemblyReference.cache
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.AssemblyInfoInputs.cache
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.AssemblyInfo.cs
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.csproj.CopyComplete
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\refint\ADPTest.Infrastructure.dll
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ADPTest.Infrastructure.pdb
+D:\Denilson\Git\ADPTest\ADPTest\ADPTest.Infrastructure\obj\Debug\net6.0\ref\ADPTest.Infrastructure.dll
